@@ -1,8 +1,8 @@
 # Support Ticket Tracker
 
-A React app for logging IT support incidents, escalating them through support levels and generating a daily handover report. Built to mirror how a real helpdesk team tracks and hands over work.
+React app for logging, escalating and reporting IT support tickets, with search, filters, saved data and a one-click daily handover report.
 
-**Live demo:** [add your link here]
+**Live demo:** https://support-ticket-tracker-vert.vercel.app/
 
 ![Screenshot of the Support Ticket Tracker](docs/screenshot.png)
 
